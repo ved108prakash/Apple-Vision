@@ -1,4 +1,4 @@
-# Apple Vision Pro Project
+# Apple Vision Project
 
 ![Apple Vision Pro Logo](https://www.apple.com/v/apple-vision-pro/a/images/overview/hero/apple_vision_pro_logo__ux94yix23r6y_large.png)
 
