@@ -62,13 +62,6 @@ The Apple Vision Pro Project is a web-based presentation designed to showcase th
 23. **Sensors Image**: Displays an image highlighting the various sensors and chips integrated into the Vision Pro.
 
 ## Installation
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/apple-vision-pro.git
-   ```
-
 2. Open the `index.html` file in a web browser to explore the Apple Vision Pro Project.
 
 ## Usage
